@@ -1,0 +1,26 @@
+﻿using System;
+
+// Token: 0x02000357 RID: 855
+public enum SoundCategory
+{
+	// Token: 0x04001B2A RID: 6954
+	NONE,
+	// Token: 0x04001B2B RID: 6955
+	FX,
+	// Token: 0x04001B2C RID: 6956
+	MUSIC,
+	// Token: 0x04001B2D RID: 6957
+	VO,
+	// Token: 0x04001B2E RID: 6958
+	SPECIAL_VO,
+	// Token: 0x04001B2F RID: 6959
+	SPECIAL_CARD,
+	// Token: 0x04001B30 RID: 6960
+	AMBIENCE,
+	// Token: 0x04001B31 RID: 6961
+	SPECIAL_MUSIC,
+	// Token: 0x04001B32 RID: 6962
+	TRIGGER_VO,
+	// Token: 0x04001B33 RID: 6963
+	HERO_MUSIC
+}

@@ -1,0 +1,24 @@
+﻿using System;
+
+// Token: 0x0200029A RID: 666
+public enum TipCategory
+{
+	// Token: 0x04001530 RID: 5424
+	INVALID,
+	// Token: 0x04001531 RID: 5425
+	PRACTICE,
+	// Token: 0x04001532 RID: 5426
+	PLAY,
+	// Token: 0x04001533 RID: 5427
+	FORGE,
+	// Token: 0x04001534 RID: 5428
+	DEFAULT,
+	// Token: 0x04001535 RID: 5429
+	QUEST_LOG,
+	// Token: 0x04001536 RID: 5430
+	QUEST_LOG_RANDOM,
+	// Token: 0x04001537 RID: 5431
+	ADVENTURE,
+	// Token: 0x04001538 RID: 5432
+	TAVERNBRAWL
+}

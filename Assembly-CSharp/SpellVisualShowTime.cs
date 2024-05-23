@@ -1,0 +1,12 @@
+﻿using System;
+
+// Token: 0x02000E34 RID: 3636
+public enum SpellVisualShowTime
+{
+	// Token: 0x040057A9 RID: 22441
+	BEFORE_GAME_EVENTS,
+	// Token: 0x040057AA RID: 22442
+	DURING_GAME_EVENTS,
+	// Token: 0x040057AB RID: 22443
+	AFTER_GAME_EVENTS
+}

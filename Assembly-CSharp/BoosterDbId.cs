@@ -1,0 +1,16 @@
+﻿using System;
+
+// Token: 0x0200018E RID: 398
+public enum BoosterDbId
+{
+	// Token: 0x04000B7C RID: 2940
+	INVALID,
+	// Token: 0x04000B7D RID: 2941
+	CLASSIC,
+	// Token: 0x04000B7E RID: 2942
+	GOBLINS_VS_GNOMES = 9,
+	// Token: 0x04000B7F RID: 2943
+	THE_GRAND_TOURNAMENT,
+	// Token: 0x04000B80 RID: 2944
+	OLD_GODS
+}

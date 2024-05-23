@@ -1,0 +1,14 @@
+﻿using System;
+
+// Token: 0x02000923 RID: 2339
+public enum TAG_STATE
+{
+	// Token: 0x04003D63 RID: 15715
+	INVALID,
+	// Token: 0x04003D64 RID: 15716
+	LOADING,
+	// Token: 0x04003D65 RID: 15717
+	RUNNING,
+	// Token: 0x04003D66 RID: 15718
+	COMPLETE
+}

@@ -1,0 +1,28 @@
+﻿using System;
+
+// Token: 0x02000177 RID: 375
+public enum UIEventType
+{
+	// Token: 0x04000A6C RID: 2668
+	PRESS,
+	// Token: 0x04000A6D RID: 2669
+	HOLD,
+	// Token: 0x04000A6E RID: 2670
+	RELEASE,
+	// Token: 0x04000A6F RID: 2671
+	RELEASEALL,
+	// Token: 0x04000A70 RID: 2672
+	DOUBLECLICK,
+	// Token: 0x04000A71 RID: 2673
+	RIGHTCLICK,
+	// Token: 0x04000A72 RID: 2674
+	ROLLOVER,
+	// Token: 0x04000A73 RID: 2675
+	ROLLOUT,
+	// Token: 0x04000A74 RID: 2676
+	DISABLE,
+	// Token: 0x04000A75 RID: 2677
+	ENABLE,
+	// Token: 0x04000A76 RID: 2678
+	TAP
+}

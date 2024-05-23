@@ -1,0 +1,24 @@
+﻿using System;
+
+// Token: 0x02000182 RID: 386
+public enum CanvasAnchor
+{
+	// Token: 0x04000B0E RID: 2830
+	CENTER,
+	// Token: 0x04000B0F RID: 2831
+	LEFT,
+	// Token: 0x04000B10 RID: 2832
+	RIGHT,
+	// Token: 0x04000B11 RID: 2833
+	BOTTOM,
+	// Token: 0x04000B12 RID: 2834
+	TOP,
+	// Token: 0x04000B13 RID: 2835
+	BOTTOM_LEFT,
+	// Token: 0x04000B14 RID: 2836
+	BOTTOM_RIGHT,
+	// Token: 0x04000B15 RID: 2837
+	TOP_LEFT,
+	// Token: 0x04000B16 RID: 2838
+	TOP_RIGHT
+}

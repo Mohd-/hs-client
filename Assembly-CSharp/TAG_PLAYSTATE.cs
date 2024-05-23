@@ -1,0 +1,24 @@
+﻿using System;
+
+// Token: 0x02000196 RID: 406
+public enum TAG_PLAYSTATE
+{
+	// Token: 0x04000D14 RID: 3348
+	INVALID,
+	// Token: 0x04000D15 RID: 3349
+	PLAYING,
+	// Token: 0x04000D16 RID: 3350
+	WINNING,
+	// Token: 0x04000D17 RID: 3351
+	LOSING,
+	// Token: 0x04000D18 RID: 3352
+	WON,
+	// Token: 0x04000D19 RID: 3353
+	LOST,
+	// Token: 0x04000D1A RID: 3354
+	TIED,
+	// Token: 0x04000D1B RID: 3355
+	DISCONNECTED,
+	// Token: 0x04000D1C RID: 3356
+	CONCEDED
+}

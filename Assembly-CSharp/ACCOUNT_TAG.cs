@@ -1,0 +1,10 @@
+﻿using System;
+
+// Token: 0x020006B9 RID: 1721
+public enum ACCOUNT_TAG
+{
+	// Token: 0x04002F2F RID: 12079
+	OWNED_COUNT,
+	// Token: 0x04002F30 RID: 12080
+	NEWEST_INSERT_DATE
+}

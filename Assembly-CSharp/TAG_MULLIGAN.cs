@@ -1,0 +1,16 @@
+﻿using System;
+
+// Token: 0x020008E9 RID: 2281
+public enum TAG_MULLIGAN
+{
+	// Token: 0x04003BD9 RID: 15321
+	INVALID,
+	// Token: 0x04003BDA RID: 15322
+	INPUT,
+	// Token: 0x04003BDB RID: 15323
+	DEALING,
+	// Token: 0x04003BDC RID: 15324
+	WAITING,
+	// Token: 0x04003BDD RID: 15325
+	DONE
+}

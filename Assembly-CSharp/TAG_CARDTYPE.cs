@@ -1,0 +1,28 @@
+﻿using System;
+
+// Token: 0x02000191 RID: 401
+public enum TAG_CARDTYPE
+{
+	// Token: 0x04000C73 RID: 3187
+	INVALID,
+	// Token: 0x04000C74 RID: 3188
+	GAME,
+	// Token: 0x04000C75 RID: 3189
+	PLAYER,
+	// Token: 0x04000C76 RID: 3190
+	HERO,
+	// Token: 0x04000C77 RID: 3191
+	MINION,
+	// Token: 0x04000C78 RID: 3192
+	SPELL,
+	// Token: 0x04000C79 RID: 3193
+	ENCHANTMENT,
+	// Token: 0x04000C7A RID: 3194
+	WEAPON,
+	// Token: 0x04000C7B RID: 3195
+	ITEM,
+	// Token: 0x04000C7C RID: 3196
+	TOKEN,
+	// Token: 0x04000C7D RID: 3197
+	HERO_POWER
+}

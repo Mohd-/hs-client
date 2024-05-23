@@ -1,0 +1,18 @@
+﻿using System;
+
+// Token: 0x020001A4 RID: 420
+public enum TAG_RARITY
+{
+	// Token: 0x04000E63 RID: 3683
+	INVALID,
+	// Token: 0x04000E64 RID: 3684
+	COMMON,
+	// Token: 0x04000E65 RID: 3685
+	FREE,
+	// Token: 0x04000E66 RID: 3686
+	RARE,
+	// Token: 0x04000E67 RID: 3687
+	EPIC,
+	// Token: 0x04000E68 RID: 3688
+	LEGENDARY
+}

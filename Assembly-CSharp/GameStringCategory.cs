@@ -1,0 +1,20 @@
+﻿using System;
+
+// Token: 0x02000297 RID: 663
+public enum GameStringCategory
+{
+	// Token: 0x0400150A RID: 5386
+	INVALID,
+	// Token: 0x0400150B RID: 5387
+	GLOBAL,
+	// Token: 0x0400150C RID: 5388
+	GLUE,
+	// Token: 0x0400150D RID: 5389
+	GAMEPLAY,
+	// Token: 0x0400150E RID: 5390
+	TUTORIAL,
+	// Token: 0x0400150F RID: 5391
+	PRESENCE,
+	// Token: 0x04001510 RID: 5392
+	MISSION
+}

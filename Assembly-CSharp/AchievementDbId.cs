@@ -1,0 +1,14 @@
+﻿using System;
+
+// Token: 0x02000EC1 RID: 3777
+public enum AchievementDbId
+{
+	// Token: 0x04005BBE RID: 23486
+	INVALID,
+	// Token: 0x04005BBF RID: 23487
+	FIRST_BLOOD = 11,
+	// Token: 0x04005BC0 RID: 23488
+	ENTER_THE_ARENA = 56,
+	// Token: 0x04005BC1 RID: 23489
+	OG_LAUNCH_PERIOD_FREE_PACKS = 339
+}

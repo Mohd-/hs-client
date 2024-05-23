@@ -1,0 +1,30 @@
+﻿using System;
+
+// Token: 0x02000041 RID: 65
+public enum TAG_CLASS
+{
+	// Token: 0x04000202 RID: 514
+	INVALID,
+	// Token: 0x04000203 RID: 515
+	DEATHKNIGHT,
+	// Token: 0x04000204 RID: 516
+	DRUID,
+	// Token: 0x04000205 RID: 517
+	HUNTER,
+	// Token: 0x04000206 RID: 518
+	MAGE,
+	// Token: 0x04000207 RID: 519
+	PALADIN,
+	// Token: 0x04000208 RID: 520
+	PRIEST,
+	// Token: 0x04000209 RID: 521
+	ROGUE,
+	// Token: 0x0400020A RID: 522
+	SHAMAN,
+	// Token: 0x0400020B RID: 523
+	WARLOCK,
+	// Token: 0x0400020C RID: 524
+	WARRIOR,
+	// Token: 0x0400020D RID: 525
+	DREAM
+}

@@ -1,0 +1,18 @@
+﻿using System;
+
+// Token: 0x0200095C RID: 2396
+public enum SpellPlayerSide
+{
+	// Token: 0x04003E9C RID: 16028
+	NEUTRAL,
+	// Token: 0x04003E9D RID: 16029
+	FRIENDLY,
+	// Token: 0x04003E9E RID: 16030
+	OPPONENT,
+	// Token: 0x04003E9F RID: 16031
+	SOURCE,
+	// Token: 0x04003EA0 RID: 16032
+	TARGET,
+	// Token: 0x04003EA1 RID: 16033
+	BOTH
+}
